@@ -1,0 +1,34 @@
+# Entornos virtuales
+venv/
+env/
+*.env
+
+# Dependencias instaladas
+lib/
+lib64/
+bin/
+include/
+share/
+
+# Archivos de configuración local
+settings.ini
+config.ini
+
+# Archivos de registro
+*.log
+
+# Archivos de caché
+.cache/
+
+# Archivos de compilación
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp
